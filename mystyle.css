@@ -1,0 +1,29 @@
+    body{background-color: rgb(216, 70, 216);}
+	.hidden{
+		display:none;
+	}
+	a{
+		font-size: 27px;
+	}
+
+	a:hover{
+		color: white;	
+	}
+
+	p{
+		font-size: 25px; 
+		font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+
+	h1{
+		font-size: 40px;
+	}
+
+	#bigtitle{
+		display: block;
+		font-size: 60px;
+	}
+
+	.hidden{
+		display:none;
+	}
